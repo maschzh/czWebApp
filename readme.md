@@ -11,3 +11,5 @@
 9. git push -u origin master
 10. git pull --rebase origin master
 11. git clone git@github.com:maschzh/czWebApp.git 克隆远程库
+12. git branch dev 创建分支
+13. git checkout -b dev 创建分支并迁出 相当于 git branck dev 和 git checkout -- dev
