@@ -10,3 +10,4 @@
 8. git remote add origin git@github.com:maschzh/czWebApp.git
 9. git push -u origin master
 10. git pull --rebase origin master
+11. git clone git@github.com:maschzh/czWebApp.git 克隆远程库
