@@ -16,3 +16,5 @@
 14. git branch -d dev 删除分支
 15. git branch 查看分支
 16. git merge <name> 合并分支到当前分支
+17. git log --graph 产看分支合并图
+18. git merge --no-ff -m "merge with no-ff" dev --no-ff参数，表示禁用Fast forward
