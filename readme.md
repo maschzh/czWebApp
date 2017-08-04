@@ -14,3 +14,5 @@
 12. git branch dev 创建分支
 13. git checkout -b dev 创建分支并迁出 相当于 git branck dev 和 git checkout -- dev
 14. git branch -d dev 删除分支
+15. git branch 查看分支
+16. git merge <name> 合并分支到当前分支
