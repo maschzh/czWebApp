@@ -18,3 +18,4 @@
 16. git merge <name> 合并分支到当前分支
 17. git log --graph 产看分支合并图
 18. git merge --no-ff -m "merge with no-ff" dev --no-ff参数，表示禁用Fast forward
+19. git stash 把当前工作现场“储藏”起来，等以后恢复现场后继续工作
