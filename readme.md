@@ -19,3 +19,13 @@
 17. git log --graph 产看分支合并图
 18. git merge --no-ff -m "merge with no-ff" dev --no-ff参数，表示禁用Fast forward
 19. git stash 把当前工作现场“储藏”起来，等以后恢复现场后继续工作
+20. git stash list 产看列表信息
+21. git stash apply 恢复存储
+22. git stash drop 删除存储
+23. git stash pop 删除存储
+24. git remote -v 查看远程版本信息
+25. git pull 抓取远程分支
+26. git tag v1.0 创建标签
+27. git show <tagName> 查看标签信息
+28. git tag -a v0.1 -m "version 0.1 released" 3628164
+29. git tag -s <tagname> -m "blablabla..."可以用PGP签名标签
