@@ -29,3 +29,8 @@
 27. git show <tagName> 查看标签信息
 28. git tag -a v0.1 -m "version 0.1 released" 3628164
 29. git tag -s <tagname> -m "blablabla..."可以用PGP签名标签
+30. git push origin <tagname>可以推送一个本地标签
+31. git push origin --tags可以推送全部未推送过的本地标签
+32. git tag -d <tagname>可以删除一个本地标签
+33. git push origin :refs/tags/<tagname>可以删除一个远程标签
+
